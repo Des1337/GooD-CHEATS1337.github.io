@@ -1,0 +1,123 @@
+# Translation of Plugins - Black Studio TinyMCE Widget - Stable (latest release) in Croatian
+# This file is distributed under the same license as the Plugins - Black Studio TinyMCE Widget - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2016-05-24 10:52:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: hr\n"
+"Project-Id-Version: Plugins - Black Studio TinyMCE Widget - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://www.blackstudio.it"
+msgstr "http://www.blackstudio.it"
+
+#. Author of the plugin/theme
+msgid "Black Studio"
+msgstr "Black Studio"
+
+#. Description of the plugin/theme
+msgid "Adds a new \"Visual Editor\" widget type based on the native WordPress TinyMCE editor."
+msgstr "Dodaje novi widget \"Vizualni uređivač\" baziran na standardnom WordPress TinyMCE uređivaču."
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/black-studio-tinymce-widget/"
+msgstr "https://wordpress.org/plugins/black-studio-tinymce-widget/"
+
+#: includes/class-widget.php:135
+msgid "Automatically add paragraphs"
+msgstr "Automatski dodaj paragrafe"
+
+#: includes/class-widget.php:128
+msgid "Title:"
+msgstr "Naslov:"
+
+#. translators: description of the widget, shown in available widgets
+#: includes/class-widget.php:29
+msgid "Arbitrary text or HTML with visual editor"
+msgstr "Proizvoljni text ili HTML sa vizualnim uređivačem"
+
+#. translators: title of the widget
+#: includes/class-widget.php:27
+msgid "Visual Editor"
+msgstr "Vizualni uređivač"
+
+#: includes/class-compatibility-wordpress.php:335
+msgid "Visual"
+msgstr "Vizualno"
+
+#: includes/class-compatibility-wordpress.php:334
+msgid "HTML"
+msgstr "HTML"
+
+#. translators: text used for the icon that shows the plugin links
+#: includes/class-admin.php:364
+msgid "About Black Studio TinyMCE Widget plugin"
+msgstr "O Black Studio TinyMCE Widget dodatku"
+
+#. translators: text used for donation link
+#: includes/class-admin.php:344
+msgid "Donate"
+msgstr "Doniraj"
+
+#. translators: text used for follow on twitter link
+#: includes/class-admin.php:342
+msgid "Follow"
+msgstr "Zaprati"
+
+#. translators: text used for reviews link
+#: includes/class-admin.php:340
+msgid "Rate"
+msgstr "Ocijeni"
+
+#. translators: text used for support forum link
+#: includes/class-admin.php:338
+msgid "Support"
+msgstr "Podrška"
+
+#. translators: text used for support faq link
+#: includes/class-admin.php:336
+msgid "FAQ"
+msgstr "Česta pitanja"
+
+#. translators: text used for plugin home link
+#: includes/class-admin.php:334
+msgid "Home"
+msgstr "Stranica dodatka"
+
+#. translators: error message shown when a duplicated widget ID is detected
+#: includes/class-admin.php:246
+msgid "ERROR: Duplicate widget ID detected. To avoid content loss, please create a new widget with the same content and then delete this one."
+msgstr "GREŠKA: Detektiran duplikat widget ID. Kako bi spriječili gubitak sadržaja, kreirajte novi widget sa istim sadržajem i zatim obrišite ovaj."
+
+#. translators: text for the dismissable admin pointer tooltip
+#: includes/class-admin-pointer.php:167
+msgid "The Visual Editor widget allows you to insert rich text and media objects in your sidebars"
+msgstr "Widget Vizualni uređivač omogućuje vam unos obogaćenog teksta i medijskih zapisa u bočne trake."
+
+#. #-#-#-#-#  tmp-black-studio-tinymce-widget.pot (Black Studio TinyMCE Widget
+#. 2.3.2)  #-#-#-#-#
+#. translators: title for the dismissable admin pointer tooltip (same as plugin
+#. name)
+#. #-#-#-#-#  tmp-black-studio-tinymce-widget.pot (Black Studio TinyMCE Widget
+#. 2.3.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/class-admin-pointer.php:165
+msgid "Black Studio TinyMCE Widget"
+msgstr "Black Studio TinyMCE Widget"
+
+#. translators: error message shown when multiple instance of the plugin are
+#. detected
+#: black-studio-tinymce-widget.php:279
+msgid "ERROR: Multiple instances of the Black Studio TinyMCE Widget plugin were detected. Please activate only one instance at a time."
+msgstr "GREŠKA: Detektirano je više instanci Black Studio TinyMCE Widget dodatka. Aktivirajte samo jednu instancu dodatka."
+
+#: black-studio-tinymce-widget.php:193 includes/class-admin-pointer.php:63
+#: includes/class-admin.php:72 includes/class-compatibility-plugins.php:65
+#: includes/class-compatibility-wordpress.php:65
+#: includes/class-compatibility.php:95 includes/class-text-filters.php:71
+msgid "Cheatin&#8217; uh?"
+msgstr "Varamo, jeli?"
